@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View Your List</name>
+   <tag></tag>
+   <elementGuidId>7c704737-6cff-44cf-8389-d9b004ea999a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='huc-view-your-list-button']/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#huc-view-your-list-button > span.a-button-inner > a.a-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0767eaaa-9cf4-45b5-8ad1-7bfa916e8227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.amazon.in/hz/wishlist/ls/QP7YPIMOZX95?ref_=wl_dp_view_your_list</value>
+      <webElementGuid>74d713b9-b132-429c-bf40-a777f26feabe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-button-text</value>
+      <webElementGuid>c6e8b8c4-e07a-491e-abe0-2b71e5568726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Your List</value>
+      <webElementGuid>2b7c71e9-0f8c-422c-ac56-3307636a0c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;huc-view-your-list-button&quot;)/span[@class=&quot;a-button-inner&quot;]/a[@class=&quot;a-button-text&quot;]</value>
+      <webElementGuid>3c40930a-124c-455d-8c7a-3239e357901d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='huc-view-your-list-button']/span/a</value>
+      <webElementGuid>9f3abe87-5563-4f48-9216-59c22082454a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View Your List')]</value>
+      <webElementGuid>574bd442-e760-4588-a976-32571a43b48f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping List'])[1]/following::a[2]</value>
+      <webElementGuid>50c6c72b-d7c2-40dd-a0d8-c5c38d6aa9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='One item added to'])[1]/following::a[3]</value>
+      <webElementGuid>cde7a1ec-d7aa-4a25-a7d9-8dc7255ee46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Your List']/parent::*</value>
+      <webElementGuid>1ed25365-19d8-4543-9753-681a3d529b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.amazon.in/hz/wishlist/ls/QP7YPIMOZX95?ref_=wl_dp_view_your_list')]</value>
+      <webElementGuid>6fd16943-375e-4a5e-87c3-9e7f173c9301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span/span/a</value>
+      <webElementGuid>b9758aaf-f73a-4dd8-af3e-9eb25fe68031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.amazon.in/hz/wishlist/ls/QP7YPIMOZX95?ref_=wl_dp_view_your_list' and (text() = 'View Your List' or . = 'View Your List')]</value>
+      <webElementGuid>b6629384-da9c-44d0-a2da-a9516dd5c09f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

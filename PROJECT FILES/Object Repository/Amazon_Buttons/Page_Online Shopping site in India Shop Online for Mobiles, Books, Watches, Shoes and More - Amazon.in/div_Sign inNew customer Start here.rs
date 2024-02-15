@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign inNew customer Start here</name>
+   <tag></tag>
+   <elementGuidId>67a2732b-bfb0-49c8-936a-8a6106f731d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav-signin-tt.nav-flyout</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='nav-flyout-anchor']/div[13]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59a41b18-362b-4269-bc7c-28fd7cd5db5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-signin-tt nav-flyout</value>
+      <webElementGuid>14e73bc6-b8c8-4298-9289-43e77a57af8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign inNew customer? Start here.</value>
+      <webElementGuid>284cc676-d7c7-4421-bd98-fe04404cd363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-flyout-anchor&quot;)/div[@class=&quot;nav-signin-tt nav-flyout&quot;]</value>
+      <webElementGuid>ad62203b-8601-4137-a50f-1442b8c15ab1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-flyout-anchor']/div[13]</value>
+      <webElementGuid>c6ce76cd-f5a0-4bc5-ab0b-6adc193b3e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Free Amazon Business Account'])[1]/following::div[85]</value>
+      <webElementGuid>b8510b21-9edb-45e1-be95-f137d2335c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Your Content and Devices'])[1]/following::div[85]</value>
+      <webElementGuid>b2990bb1-9c43-4b94-8967-c277b1b62513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]</value>
+      <webElementGuid>a30b1aac-66b8-45ca-b00a-948ed4b6a154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign inNew customer? Start here.' or . = 'Sign inNew customer? Start here.')]</value>
+      <webElementGuid>c345cf66-4488-4673-b26f-0db5b00301bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
