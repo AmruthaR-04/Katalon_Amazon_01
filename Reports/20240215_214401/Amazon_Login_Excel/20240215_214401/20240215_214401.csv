@@ -1,0 +1,15 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_Login_Excel,Chrome 121.0.0.0,,,15-02-2024 21:44:08,15-02-2024 21:46:25,2m - 16.766s,PASSED
+,,,,,,,
+Test Cases/Amazon/TC_Amazon_Login,Chrome 121.0.0.0,,,15-02-2024 21:44:09,15-02-2024 21:46:25,2m - 16.227s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,15-02-2024 21:44:09,15-02-2024 21:44:57,47.802s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,15-02-2024 21:44:57,15-02-2024 21:45:00,2.829s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 121.0.0.0,,,15-02-2024 21:45:00,15-02-2024 21:45:24,23.837s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, sign in""))",Chrome 121.0.0.0,,,15-02-2024 21:45:24,15-02-2024 21:45:34,10.582s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign In/input_Email or mobile phone number_email""), username)",Chrome 121.0.0.0,,,15-02-2024 21:45:34,15-02-2024 21:45:36,1.931s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402""))",Chrome 121.0.0.0,,,15-02-2024 21:45:36,15-02-2024 21:46:00,23.358s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign In/input_Forgot Password_password""), password)",Chrome 121.0.0.0,,,15-02-2024 21:46:00,15-02-2024 21:46:01,0.976s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Login_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit""))",Chrome 121.0.0.0,,,15-02-2024 21:46:01,15-02-2024 21:46:19,18.635s,PASSED
+"rightClick(findTestObject(""Object Repository/Amazon_Login_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, NarmadhaRavisankar""))",Chrome 121.0.0.0,,,15-02-2024 21:46:19,15-02-2024 21:46:23,3.680s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,15-02-2024 21:46:23,15-02-2024 21:46:25,2.094s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,15-02-2024 21:46:25,15-02-2024 21:46:25,0.010s,PASSED
