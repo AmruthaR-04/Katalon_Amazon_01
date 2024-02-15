@@ -1,4 +1,3 @@
-# Katalon_Amazon_01
 Amazon Project Is An Automation Testing Using The Katalon Studio Automation Testing Tools Follow These Steps:
 
 Step 1: Create the Testplan based on the given project. 
