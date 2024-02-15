@@ -1,5 +1,5 @@
 # Katalon_Amazon_01
-Amazon Project is an Automation Testing using the Katalon Studio Automation Testing tools Follow These Steps
+Amazon Project is an Automation Testing using the Katalon Studio Automation Testing tools Follow These Steps:
 Step 1: Create the Testplan based on the given project. 
 Step 2: Create the Test case & Test scenarios in Excel sheet. 
 Step 3: Create the Test Data for Which Scenarios in Excel sheet. 
