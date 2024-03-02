@@ -32,7 +32,5 @@ WebUI.setText(findTestObject('Object Repository/Amazon_Login_OR/Page_Amazon Sign
 
 WebUI.click(findTestObject('Object Repository/Amazon_Login_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit'))
 
-WebUI.rightClick(findTestObject('Object Repository/Amazon_Login_OR/Page_Online Shopping site in India Shop Onl_10c5f3/span_Hello, NarmadhaRavisankar'))
-
 WebUI.closeBrowser()
 
