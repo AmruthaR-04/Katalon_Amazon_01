@@ -29,20 +29,20 @@ WebUI.setText(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Pa
 WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402'))
 
 WebUI.setText(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Amazon Sign In/input_Forgot Password_password'), 
-    'ammu0404')
+    'amruthar@04')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit'))
 
 WebUI.setText(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'), 
-    'milton flask')
+    'water bottle')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button'))
 
-WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Amazon.in  milton flask/img_-_s-image'))
+WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Amazon.in  water bottle/div_-_a-section aok-relative s-image-square-aspect'))
 
-WebUI.switchToWindowTitle('Milton Aura 1000 Thermosteel Bottle, 1.05 Litre, Silver | 24 Hours Hot and Cold | Easy to Carry | Rust & Leak Proof | Tea | Coffee | Office| Gym | Home | Kitchen | Hiking | Trekking | Travel Bottle : Amazon.in: Home & Kitchen')
+WebUI.switchToWindowTitle('Speedex Stainless Steel 1000 ML Water Bottle/Thunder for fridge/School/Outdoor/Gym/Home/office/Boys/Girls/Kids, Leak Proof And BPA Free(DUAL-PINK-BLUE COLOUR, SIPPER CAP, SET OF 1, 1 LITRE) : Amazon.in: Home & Kitchen')
 
-WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Milton Aura 1000 Thermosteel Bottle, 1_4fcf33/input_Shipping cost, delivery date and orde_362d1e'))
+WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Speedex Stainless Steel 1000 ML Water _2a69a5/input_Shipping cost, delivery date and orde_362d1e'))
 
 WebUI.click(findTestObject('Object Repository/Amazon_Add_Product_To_Cart_OR/Page_Amazon.in Shopping Cart/a_Go to Cart'))
 
