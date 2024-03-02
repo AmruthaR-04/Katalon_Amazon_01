@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Amazon S
 WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402'))
 
 WebUI.setText(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Amazon Sign In/input_Forgot Password_password'), 
-    'ammu0404')
+    'amruthar@04')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit'))
 
@@ -40,11 +40,11 @@ WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Online Sho
 
 WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Amazon.in  juicer blender/img_Check each product page for other buyin_8fd263'))
 
-WebUI.switchToWindowTitle('Buy bianco di puro Professional Power Blender 1400 Watts with 8 Preset Options for Smoothies, Frozen Yogurt, Sauce, Soup (Red) Online at Low Prices in India - Amazon.in')
+WebUI.switchToWindowTitle('Buy Faber 2-in-1 Sportz Blender | Smoothie & Grinding Jar (Wet & Dry) | ABS Body, Detachable SS Blades, 400W Motor, 1 Sipper Cap & 3 Lids, 2 Spill Proof Jars | (Silver) Online at Low Prices in India - Amazon.in')
 
-WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Buy bianco di puro Professional Power _8038b6/input_Add gift options_submit.add-to-regist_0d040a'))
+WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Buy Faber 2-in-1 Sportz Blender  Smoot_2b0225/input_Add gift options_submit.add-to-regist_0d040a'))
 
-WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Buy bianco di puro Professional Power _8038b6/a_View Your List'))
+WebUI.click(findTestObject('Object Repository/Amazon_Wishlist_OR/Page_Buy Faber 2-in-1 Sportz Blender  Smoot_2b0225/a_View Your List'))
 
 WebUI.closeBrowser()
 
