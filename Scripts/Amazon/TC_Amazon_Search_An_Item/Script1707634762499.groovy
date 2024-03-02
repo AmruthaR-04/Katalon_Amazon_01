@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Am
 WebUI.click(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402'))
 
 WebUI.setText(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Amazon Sign In/input_Forgot Password_password'), 
-    'ammu0404')
+    'amruthar@04')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit'))
 
@@ -37,13 +37,15 @@ WebUI.selectOptionByValue(findTestObject('Object Repository/Amazon_Search_An_Ite
     'search-alias=stripbooks', true)
 
 WebUI.setText(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_field-keywords'), 
-    'da vinci code')
+    'da vinci code ')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Online Shopping site in India Shop Onl_10c5f3/input_Search Amazon.in_nav-search-submit-button'))
 
-WebUI.click(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Amazon.in  da vinci code/img_Results_s-image'))
+WebUI.click(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_Amazon.in  da vinci code/div_Results_a-section aok-relative s-image-_a39021'))
 
 WebUI.switchToWindowTitle('The Da Vinci Code (Abridged Edition) [Paperback] Brown, Dan : BROWN DAN: Amazon.in: Books')
+
+WebUI.click(findTestObject('Object Repository/Amazon_Search_An_Item_OR/Page_The Da Vinci Code (Abridged Edition) P_54f610/span_The Da Vinci Code (Abridged Edition) P_4896eb'))
 
 WebUI.closeBrowser()
 
