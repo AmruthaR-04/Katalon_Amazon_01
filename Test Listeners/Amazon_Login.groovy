@@ -40,9 +40,8 @@ class Amazon_Login {
 	 */
 	@AfterTestCase
 	def sampleAfterTestCase() {
-		WebUI.closeBrowser()
+		WebUI.openBrowser('')
 	}
-
 	/**
 	 * Executes before every test suite starts.
 	 * @param testSuiteContext: related information of the executed test suite.
