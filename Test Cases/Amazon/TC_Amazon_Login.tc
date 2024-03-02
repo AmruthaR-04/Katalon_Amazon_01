@@ -9,25 +9,25 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>5ebc4d8e-3524-4561-b646-f2b8177a9e18</variableId>
+      <variableId>8d658fe3-fe28-4b6c-ad76-60565d4cf23c</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>0c8906a5-7c91-4175-bcb2-ae985bbddc4c</variableId>
+      <variableId>3b259c8c-dd1f-4b62-bf2f-a40856f8e503</variableId>
    </variableLinks>
    <variable>
       <defaultValue>'amrutha.ravisankar.04@gmail.com'</defaultValue>
       <description></description>
-      <id>5ebc4d8e-3524-4561-b646-f2b8177a9e18</id>
+      <id>8d658fe3-fe28-4b6c-ad76-60565d4cf23c</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>'ammu0404'</defaultValue>
+      <defaultValue>'amruthar@04'</defaultValue>
       <description></description>
-      <id>0c8906a5-7c91-4175-bcb2-ae985bbddc4c</id>
+      <id>3b259c8c-dd1f-4b62-bf2f-a40856f8e503</id>
       <masked>false</masked>
       <name>password</name>
    </variable>
