@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>266f1799-f63d-4dc3-a791-69612df67c12</testSuiteGuid>
    <testCaseLink>
-      <guid>e7fba2ca-59f0-41c8-92e5-34d7d6a17692</guid>
+      <guid>2d44f5f3-2e70-4d28-9a17-c7258b3dacd2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Amazon/TC_Amazon_Login</testCaseId>
@@ -21,13 +21,13 @@
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>5ebc4d8e-3524-4561-b646-f2b8177a9e18</variableId>
+         <variableId>8d658fe3-fe28-4b6c-ad76-60565d4cf23c</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>0c8906a5-7c91-4175-bcb2-ae985bbddc4c</variableId>
+         <variableId>3b259c8c-dd1f-4b62-bf2f-a40856f8e503</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

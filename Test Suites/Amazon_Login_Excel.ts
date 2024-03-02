@@ -12,13 +12,13 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>41638587-66ab-42c0-90b8-ab13881f34b2</testSuiteGuid>
    <testCaseLink>
-      <guid>04b10a1e-6ca5-4afc-82b9-66d2e77ffa3c</guid>
+      <guid>eb445b4b-a2c4-4772-9394-2506786185da</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Amazon/TC_Amazon_Login</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>95fc4342-b161-49f0-bbe3-8617a47191bb</id>
+         <id>bd9a0f63-778b-4aa1-9135-190d73024fec</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,16 +27,16 @@
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>95fc4342-b161-49f0-bbe3-8617a47191bb</testDataLinkId>
+         <testDataLinkId>bd9a0f63-778b-4aa1-9135-190d73024fec</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>username</value>
-         <variableId>5ebc4d8e-3524-4561-b646-f2b8177a9e18</variableId>
+         <variableId>8d658fe3-fe28-4b6c-ad76-60565d4cf23c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>95fc4342-b161-49f0-bbe3-8617a47191bb</testDataLinkId>
+         <testDataLinkId>bd9a0f63-778b-4aa1-9135-190d73024fec</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>password</value>
-         <variableId>0c8906a5-7c91-4175-bcb2-ae985bbddc4c</variableId>
+         <variableId>3b259c8c-dd1f-4b62-bf2f-a40856f8e503</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
