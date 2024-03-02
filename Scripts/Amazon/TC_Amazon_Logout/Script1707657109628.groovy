@@ -28,7 +28,7 @@ WebUI.setText(findTestObject('Object Repository/Amazon_Logout_OR/Page_Amazon Sig
 
 WebUI.click(findTestObject('Object Repository/Amazon_Logout_OR/Page_Amazon Sign In/input_Enter your email or mobile phone numb_fc7402'))
 
-WebUI.setText(findTestObject('Object Repository/Amazon_Logout_OR/Page_Amazon Sign In/input_Forgot Password_password'), 'ammu0404')
+WebUI.setText(findTestObject('Object Repository/Amazon_Logout_OR/Page_Amazon Sign In/input_Forgot Password_password'), 'amruthar@04')
 
 WebUI.click(findTestObject('Object Repository/Amazon_Logout_OR/Page_Amazon Sign In/input_Enter your password_signInSubmit'))
 
