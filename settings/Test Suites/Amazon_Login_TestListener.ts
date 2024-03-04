@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>266f1799-f63d-4dc3-a791-69612df67c12</testSuiteGuid>
    <testCaseLink>
-      <guid>2d44f5f3-2e70-4d28-9a17-c7258b3dacd2</guid>
+      <guid>8f7ae434-e072-451d-b724-38a72a99aa17</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Amazon/TC_Amazon_Login</testCaseId>

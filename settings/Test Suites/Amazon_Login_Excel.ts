@@ -12,13 +12,13 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>41638587-66ab-42c0-90b8-ab13881f34b2</testSuiteGuid>
    <testCaseLink>
-      <guid>eb445b4b-a2c4-4772-9394-2506786185da</guid>
+      <guid>5c527624-ef81-483d-aaeb-60ede742bad8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Amazon/TC_Amazon_Login</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>bd9a0f63-778b-4aa1-9135-190d73024fec</id>
+         <id>90a796ec-d44c-4761-b4f2-243b75262b32</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
