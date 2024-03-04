@@ -6,7 +6,7 @@
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>44cb51e2-a61f-4109-9ffe-8891c03d9dba</dataFileGUID>
+   <dataFileGUID>f274b94e-8b9e-4b54-ba3b-2a3d4bf5ba1d</dataFileGUID>
    <dataSourceUrl>C:\Users\User\git\Katalon_Amazon_01\Data Files\Amazon_Login_Excel\Amazon_Login.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
