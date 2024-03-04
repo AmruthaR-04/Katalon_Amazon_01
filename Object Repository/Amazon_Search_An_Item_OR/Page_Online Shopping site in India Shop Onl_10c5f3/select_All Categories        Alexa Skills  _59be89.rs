@@ -3,15 +3,15 @@
    <description></description>
    <name>select_All Categories        Alexa Skills  _59be89</name>
    <tag></tag>
-   <elementGuidId>89585ba1-2a65-44ae-87a1-ae25621f0035</elementGuidId>
+   <elementGuidId>ac80f73a-2f53-488e-9212-e5e9d6b0d3e2</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//select[@id='searchDropdownBox']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#searchDropdownBox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='searchDropdownBox']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>83431c99-0908-4a67-a67c-c7198d16576d</webElementGuid>
+      <webElementGuid>aecf72f5-0d9b-4904-a792-79b03048968c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>searchDropdownDescription</value>
-      <webElementGuid>92b829ae-50b7-484f-882b-c116fdc84149</webElementGuid>
+      <webElementGuid>12bbda18-a23c-4584-964e-3a83a74a959c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-search-dropdown searchSelect nav-progressive-attrubute nav-progressive-search-dropdown</value>
-      <webElementGuid>31ca0d9d-7c25-46a1-9787-47f6c64b5bcf</webElementGuid>
+      <webElementGuid>014dde21-4da3-4858-81d3-e2f7c2f97c6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-nav-digest</name>
       <type>Main</type>
       <value>ZobsQWY4pE2QbvgmMbposriahro=</value>
-      <webElementGuid>a70b9b16-7a1f-421a-a9f1-7074e13844b1</webElementGuid>
+      <webElementGuid>e342957e-5e9e-4e43-95f9-3badc41b8ac9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-nav-selected</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>609088d3-dfd5-4a93-af97-ca09cdfd8acd</webElementGuid>
+      <webElementGuid>a39ad565-e3df-45ec-902f-f4c98aead8a4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>searchDropdownBox</value>
-      <webElementGuid>0654d242-8ece-40e0-9b37-e5116fd6bfd4</webElementGuid>
+      <webElementGuid>1d62e543-277c-4c09-b8db-457bd8be1492</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>url</value>
-      <webElementGuid>2edca07f-ff1f-4e5e-b301-76903e7820c6</webElementGuid>
+      <webElementGuid>598697f5-1384-4bbe-b05c-cb7f0a403758</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>fa621ff0-a300-47bc-9439-306f7c161bd6</webElementGuid>
+      <webElementGuid>7e79f766-c552-4c6c-aefe-685fff3b63f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search in</value>
-      <webElementGuid>5fbc33d0-c323-4f1f-aa54-f9412f1f092f</webElementGuid>
+      <webElementGuid>4750e87c-86b8-4c23-84a3-a2a34b978f77</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -139,7 +139,7 @@
         Video Games
         Watches
     </value>
-      <webElementGuid>6960ed5c-5a11-4428-8da1-82df79cfbf0d</webElementGuid>
+      <webElementGuid>b5543c12-bb55-4240-973c-b18331deebfb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;searchDropdownBox&quot;)</value>
-      <webElementGuid>cc1b0f69-f142-4cfd-99d4-1f9d04570000</webElementGuid>
+      <webElementGuid>73c8b273-502a-439d-8281-10a7615266c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -155,7 +155,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='searchDropdownBox']</value>
-      <webElementGuid>566a9be1-4720-469c-af67-71eeccef655d</webElementGuid>
+      <webElementGuid>746dc474-4bf3-4243-b503-804e7f9d1626</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -163,7 +163,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='nav-search-dropdown-card']/div/select</value>
-      <webElementGuid>c6950707-dbcc-41e8-b88b-212deb97a9a6</webElementGuid>
+      <webElementGuid>62da767e-f86c-45ac-aebb-5863c2e2c17f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -171,7 +171,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::select[1]</value>
-      <webElementGuid>902adb79-8a88-48f4-b028-c573f4d8e979</webElementGuid>
+      <webElementGuid>e24df980-cab9-4cd0-b2a3-fad52b671c26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -179,7 +179,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload an image'])[1]/following::select[1]</value>
-      <webElementGuid>f8433314-a8e0-409d-ab9a-f51836256bc2</webElementGuid>
+      <webElementGuid>444ca459-f606-45e1-85fe-79b933cf37e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -187,7 +187,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Amazon.in'])[1]/preceding::select[1]</value>
-      <webElementGuid>12d4c60f-1f14-491e-8ccc-df04f927bd6b</webElementGuid>
+      <webElementGuid>259a23e2-61d8-4f2f-90e4-6cf23367b4c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -195,7 +195,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/preceding::select[1]</value>
-      <webElementGuid>5d0f1666-bba6-4cbf-8061-654cae971a31</webElementGuid>
+      <webElementGuid>3be2c251-b8bb-48aa-b530-80d26a62f58c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -203,7 +203,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>21826f27-a626-4999-b0d5-434d05b27a09</webElementGuid>
+      <webElementGuid>a2bd737d-26bc-4e87-a0cf-21a8d95ae88c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -301,6 +301,6 @@
         Video Games
         Watches
     ')]</value>
-      <webElementGuid>0e4c6fbe-8453-45bf-b4be-35e4b4b016db</webElementGuid>
+      <webElementGuid>6a2911d7-3a2e-4f95-a219-fa6014dbab4d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Search Amazon.in_field-keywords</name>
+   <name>input_Shipping cost, delivery date and orde_362d1e</name>
    <tag></tag>
-   <elementGuidId>653ba495-dc61-4f2b-98ed-3ad2deff4a55</elementGuidId>
+   <elementGuidId>12e72d22-7a30-468d-9aed-851eceac4e4d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#twotabsearchtextbox</value>
+         <value>#add-to-cart-button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='twotabsearchtextbox']</value>
+         <value>//input[@id='add-to-cart-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,126 +22,118 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d9cd271b-483a-4212-a6a4-88c2aa1419b5</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>69ab64f5-bce8-4b3b-96e5-7a83ac030617</webElementGuid>
+      <webElementGuid>db91372c-3923-431b-8d55-de39691daada</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>twotabsearchtextbox</value>
-      <webElementGuid>10c03caf-00f9-44d1-894a-3982dfe88d56</webElementGuid>
+      <value>add-to-cart-button</value>
+      <webElementGuid>e7d3dba5-d94d-464f-af29-31942efd973d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>field-keywords</value>
-      <webElementGuid>41d0c220-f0ef-4aaf-80af-728c171d9801</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>be61941a-5dbd-4e42-8bb0-4a544c0ab48d</webElementGuid>
+      <value>submit.add-to-cart</value>
+      <webElementGuid>10da1c74-a1bc-4657-8d1d-a06a95c9ced7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>title</name>
       <type>Main</type>
-      <value>Search Amazon.in</value>
-      <webElementGuid>718c9cc9-8662-439c-835f-e6ce126676fd</webElementGuid>
+      <value>Add to Shopping Cart</value>
+      <webElementGuid>3ec6df82-6143-439a-9e07-04a85a8fb995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hover</name>
+      <type>Main</type>
+      <value>Select &lt;b>__dims__&lt;/b> from the left&lt;br> to add to Shopping Cart</value>
+      <webElementGuid>a38a322a-24c3-4054-90a0-15f5d7d789f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-input nav-progressive-attribute</value>
-      <webElementGuid>71d1b2d7-3eac-41fe-8129-4187d556cc2d</webElementGuid>
+      <value>a-button-input</value>
+      <webElementGuid>c89d53a9-3729-4363-82f4-b9482cb569a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>0c835750-9e33-4018-ba30-45076a16e484</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>dir</name>
+      <name>value</name>
       <type>Main</type>
-      <value>auto</value>
-      <webElementGuid>6d19a5ca-01ab-428a-b0cb-81a1416c6237</webElementGuid>
+      <value>Add to Cart</value>
+      <webElementGuid>831ddf85-0f9f-4874-a185-c416512f4aee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>aria-labelledby</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>9f8e0cd4-db74-4908-b94e-ef5f773d6db7</webElementGuid>
+      <value>submit.add-to-cart-announce</value>
+      <webElementGuid>a5911404-61b9-423f-b76c-58e999183bfc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
+      <name>formaction</name>
       <type>Main</type>
-      <value>Search Amazon.in</value>
-      <webElementGuid>9d23e633-be5a-46bb-b587-8679505f3355</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>spellcheck</name>
-      <type>Main</type>
-      <value>false</value>
-      <webElementGuid>b35380fe-c652-45b7-9e0b-5b9e8b392b63</webElementGuid>
+      <value>/cart/add-to-cart/ref=dp_start-bbf_1_glance</value>
+      <webElementGuid>b7b19ec2-8391-49a5-8a00-c9c3f7a790d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;twotabsearchtextbox&quot;)</value>
-      <webElementGuid>c0570ee6-9d31-4057-818f-d2bc5e9232de</webElementGuid>
+      <value>id(&quot;add-to-cart-button&quot;)</value>
+      <webElementGuid>7d5e59cd-3c60-4cf0-8a03-a741e6d38ca4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='twotabsearchtextbox']</value>
-      <webElementGuid>653af3b6-cffe-481e-9c18-75a5594cdf53</webElementGuid>
+      <value>//input[@id='add-to-cart-button']</value>
+      <webElementGuid>4cad8377-3b8f-46d7-96e8-049f57a6bfd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='nav-search-bar-form']/div[2]/div/input</value>
-      <webElementGuid>7fa71bd1-d1f2-4538-8259-b4b95effbaef</webElementGuid>
+      <value>//span[@id='submit.add-to-cart']/span/input</value>
+      <webElementGuid>fc83955f-da90-4b03-a425-8c408a693208</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>6965b884-b7b6-45a1-958e-28c9f589fbc2</webElementGuid>
+      <value>//div[36]/div/span/span/span/input</value>
+      <webElementGuid>2409baa2-8c21-499b-b1fd-b3a46291fea4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @id = 'twotabsearchtextbox' and @name = 'field-keywords' and @placeholder = 'Search Amazon.in']</value>
-      <webElementGuid>043b74ce-12c9-48ac-986a-27c12211066b</webElementGuid>
+      <value>//input[@id = 'add-to-cart-button' and @name = 'submit.add-to-cart' and @title = 'Add to Shopping Cart' and @type = 'submit']</value>
+      <webElementGuid>d34caa46-957d-430c-997d-33e7fbc25dc9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

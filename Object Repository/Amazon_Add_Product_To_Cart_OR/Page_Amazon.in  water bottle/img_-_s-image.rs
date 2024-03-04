@@ -3,15 +3,15 @@
    <description></description>
    <name>img_-_s-image</name>
    <tag></tag>
-   <elementGuidId>1390f03b-e126-42a2-a505-3b417ea1b534</elementGuidId>
+   <elementGuidId>0ffc2aac-8aa5-4f15-9ce6-1eeb6607d323</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='search']/div/div/div/span/div/div[5]/div/div/div/div/span/div/div/div/span/a/div/img</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='search']/div/div/div/span/div/div[4]/div/div/div/div/span/div/div/div/span/a/div/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>52c85cd3-2253-4722-ad1d-0b38f5e72381</webElementGuid>
+      <webElementGuid>f68e314a-88b4-4cc2-8469-3fcf32314315</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,39 +30,39 @@
       <name>class</name>
       <type>Main</type>
       <value>s-image</value>
-      <webElementGuid>3389d3e6-912c-48fa-bc49-b0595af6eb93</webElementGuid>
+      <webElementGuid>b1464959-a6ca-40af-8eb5-9628d78eac4b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://m.media-amazon.com/images/I/71zY8gpUnEL._AC_UL320_.jpg</value>
-      <webElementGuid>12d5555b-6501-4fd3-b0ea-16e7f1707333</webElementGuid>
+      <value>https://m.media-amazon.com/images/I/714AM9176yL._AC_UL320_.jpg</value>
+      <webElementGuid>e3a2de6a-8231-4d83-8c7c-f8bc07196362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>srcset</name>
       <type>Main</type>
-      <value>https://m.media-amazon.com/images/I/71zY8gpUnEL._AC_UL320_.jpg 1x, https://m.media-amazon.com/images/I/71zY8gpUnEL._AC_UL480_FMwebp_QL65_.jpg 1.5x, https://m.media-amazon.com/images/I/71zY8gpUnEL._AC_UL640_FMwebp_QL65_.jpg 2x, https://m.media-amazon.com/images/I/71zY8gpUnEL._AC_UL800_FMwebp_QL65_.jpg 2.5x, https://m.media-amazon.com/images/I/71zY8gpUnEL._AC_UL960_FMwebp_QL65_.jpg 3x</value>
-      <webElementGuid>2c915095-633f-4054-8725-29200e350218</webElementGuid>
+      <value>https://m.media-amazon.com/images/I/714AM9176yL._AC_UL320_.jpg 1x, https://m.media-amazon.com/images/I/714AM9176yL._AC_UL480_FMwebp_QL65_.jpg 1.5x, https://m.media-amazon.com/images/I/714AM9176yL._AC_UL640_FMwebp_QL65_.jpg 2x, https://m.media-amazon.com/images/I/714AM9176yL._AC_UL800_FMwebp_QL65_.jpg 2.5x, https://m.media-amazon.com/images/I/714AM9176yL._AC_UL960_FMwebp_QL65_.jpg 3x</value>
+      <webElementGuid>9ee98e19-1dc0-43bb-b720-16fae4b3e65d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Sponsored Ad - SKYTONE Motivational Water Bottle, Spirit GYM Gallon with Time Marker Large Capacity 2000ML, Leakproof BPA ...</value>
-      <webElementGuid>1f54eec9-adc9-4f59-b824-67ab0dab5313</webElementGuid>
+      <value>Sponsored Ad - SOLARA Insulated Water Bottle 1000ml, Hot Water Bottle, Thermosteel Water Bottle for Travel, Home, Office, ...</value>
+      <webElementGuid>105aee11-8ccd-45eb-b297-e68d408f83fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-image-index</name>
       <type>Main</type>
-      <value>3</value>
-      <webElementGuid>3b5fc6fc-82cd-408c-909e-87e8bcb50bbf</webElementGuid>
+      <value>2</value>
+      <webElementGuid>74335773-97fb-4a41-8af8-8fdf0123e89d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>data-image-latency</name>
       <type>Main</type>
       <value>s-product-image</value>
-      <webElementGuid>67dee50a-dc2b-4eee-bb33-ba03ad0b8777</webElementGuid>
+      <webElementGuid>c9656659-ce4a-4752-bc40-b754fc3d1de5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,46 +78,46 @@
       <name>data-image-source-density</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>15110f96-457b-4690-a578-e0f20ca12fe1</webElementGuid>
+      <webElementGuid>5a8f726f-1753-464d-bdad-a5d0bc6048e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-4-of-24 sg-col-4-of-12 s-result-item s-asin sg-col-4-of-16 AdHolder sg-col s-widget-spacing-small sg-col-4-of-20&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_3&quot;]/div[@class=&quot;rush-component s-expand-height&quot;]/div[@class=&quot;rush-component s-featured-result-item s-expand-height&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-expand-height puis-include-content-margin puis puis-v10dnrav6sitdx2esf8fqwtjtbs s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;s-product-image-container aok-relative s-text-center s-image-overlay-grey puis-image-overlay-grey s-padding-left-small s-padding-right-small puis-spacing-small s-height-equalized puis puis-v10dnrav6sitdx2esf8fqwtjtbs&quot;]/span[@class=&quot;rush-component&quot;]/a[@class=&quot;a-link-normal s-no-outline&quot;]/div[@class=&quot;a-section aok-relative s-image-square-aspect&quot;]/img[@class=&quot;s-image&quot;]</value>
-      <webElementGuid>bfecc8e1-facc-4632-801e-f20aa114c4a4</webElementGuid>
+      <value>id(&quot;search&quot;)/div[@class=&quot;s-desktop-width-max s-desktop-content s-opposite-dir s-wide-grid-style sg-row&quot;]/div[@class=&quot;sg-col-20-of-24 s-matching-dir sg-col-16-of-20 sg-col sg-col-8-of-12 sg-col-12-of-16&quot;]/div[@class=&quot;sg-col-inner&quot;]/span[@class=&quot;rush-component s-latency-cf-section&quot;]/div[@class=&quot;s-main-slot s-result-list s-search-results sg-row&quot;]/div[@class=&quot;sg-col-4-of-24 sg-col-4-of-12 s-result-item s-asin sg-col-4-of-16 AdHolder sg-col s-widget-spacing-small sg-col-4-of-20&quot;]/div[@class=&quot;sg-col-inner&quot;]/div[@class=&quot;s-widget-container s-spacing-small s-widget-container-height-small celwidget slot=MAIN template=SEARCH_RESULTS widgetId=search-results_2&quot;]/div[@class=&quot;rush-component s-expand-height&quot;]/div[@class=&quot;rush-component s-featured-result-item s-expand-height&quot;]/span[@class=&quot;a-declarative&quot;]/div[@class=&quot;puis-card-container s-card-container s-overflow-hidden aok-relative puis-expand-height puis-include-content-margin puis puis-v10dnrav6sitdx2esf8fqwtjtbs s-latency-cf-section puis-card-border&quot;]/div[@class=&quot;a-section a-spacing-base&quot;]/div[@class=&quot;s-product-image-container aok-relative s-text-center s-image-overlay-grey puis-image-overlay-grey s-padding-left-small s-padding-right-small puis-spacing-small s-height-equalized puis puis-v10dnrav6sitdx2esf8fqwtjtbs&quot;]/span[@class=&quot;rush-component&quot;]/a[@class=&quot;a-link-normal s-no-outline&quot;]/div[@class=&quot;a-section aok-relative s-image-square-aspect&quot;]/img[@class=&quot;s-image&quot;]</value>
+      <webElementGuid>0e534be7-c7a7-413d-b157-5d15319c1ee9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='search']/div/div/div/span/div/div[5]/div/div/div/div/span/div/div/div/span/a/div/img</value>
-      <webElementGuid>289d4d7b-186f-4ce9-95c9-df0592ffe0e6</webElementGuid>
+      <value>//div[@id='search']/div/div/div/span/div/div[4]/div/div/div/div/span/div/div/div/span/a/div/img</value>
+      <webElementGuid>4fcfba1f-06a3-4f05-9e5b-c086f97ea1fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='Sponsored Ad - SKYTONE Motivational Water Bottle, Spirit GYM Gallon with Time Marker Large Capacity 2000ML, Leakproof BPA ...']</value>
-      <webElementGuid>2ccbfe3e-58cb-4987-8d5b-726f8b5a16db</webElementGuid>
+      <value>//img[@alt='Sponsored Ad - SOLARA Insulated Water Bottle 1000ml, Hot Water Bottle, Thermosteel Water Bottle for Travel, Home, Office, ...']</value>
+      <webElementGuid>0cfa22b6-d930-4a7b-90e8-0d7ffc72a73b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div/div/div/span/div/div/div/span/a/div/img</value>
-      <webElementGuid>7288604d-858d-4cc3-a44a-4d434a5a64ff</webElementGuid>
+      <value>//div[4]/div/div/div/div/span/div/div/div/span/a/div/img</value>
+      <webElementGuid>c05cff44-89e9-40ab-be0a-45c2862ff261</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'https://m.media-amazon.com/images/I/71zY8gpUnEL._AC_UL320_.jpg' and @alt = 'Sponsored Ad - SKYTONE Motivational Water Bottle, Spirit GYM Gallon with Time Marker Large Capacity 2000ML, Leakproof BPA ...']</value>
-      <webElementGuid>247a4dec-6ffd-4c23-bf7b-4e3db8f049e9</webElementGuid>
+      <value>//img[@src = 'https://m.media-amazon.com/images/I/714AM9176yL._AC_UL320_.jpg' and @alt = 'Sponsored Ad - SOLARA Insulated Water Bottle 1000ml, Hot Water Bottle, Thermosteel Water Bottle for Travel, Home, Office, ...']</value>
+      <webElementGuid>67e27a5b-6ff7-4f93-b93d-014a2ae6da88</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

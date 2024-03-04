@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Go to Cart</name>
    <tag></tag>
-   <elementGuidId>ae5fcc14-3e3c-4d38-8725-929f16092ee1</elementGuidId>
+   <elementGuidId>2cde6398-b67a-4db1-b21d-6af893ce7509</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//span[@id='sw-gtc']/span/a</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#sw-gtc > span.a-button-inner > a.a-button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='sw-gtc']/span/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>30b00c38-1371-44e9-978f-801bdc423dfb</webElementGuid>
+      <webElementGuid>a4dfb244-2bf6-4c9f-8fc5-9959df7218c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/cart?ref_=sw_gtc</value>
-      <webElementGuid>38c7a790-9d5a-4c95-96d6-1a1934691ea9</webElementGuid>
+      <webElementGuid>34534b52-8fb4-4cb3-b738-4b805f96fe85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-csa-c-content-id</name>
       <type>Main</type>
       <value>sw-gtc_CONTENT</value>
-      <webElementGuid>2dddc5e0-c418-4f13-b8ca-9416619aed19</webElementGuid>
+      <webElementGuid>74d5c204-6c48-40bb-8f82-e303af196ebc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-csa-c-slot-id</name>
       <type>Main</type>
       <value>sw-gtc</value>
-      <webElementGuid>41b959ee-f622-4ae8-b0f4-f89e19c67311</webElementGuid>
+      <webElementGuid>e2964aed-d77a-4da0-9ebb-4b99c624ff01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-csa-c-type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>c3ece180-5b18-45ff-8259-5641cd0a356c</webElementGuid>
+      <webElementGuid>69fd2975-a057-4868-a23e-c65c1def20c8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-button-text</value>
-      <webElementGuid>5507d55e-2f6d-4c62-bc54-70b1efc92aff</webElementGuid>
+      <webElementGuid>12f3d344-6340-48a7-8c98-91d0d88f6173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-csa-c-id</name>
       <type>Main</type>
-      <value>n2ror1-94ty5p-dyaxz6-16r7bo</value>
-      <webElementGuid>2ca4c5c8-f43a-4e64-9635-ce7ebd980c0e</webElementGuid>
+      <value>fh8xan-1c93z7-h66s67-de0il0</value>
+      <webElementGuid>e2febefc-1404-440f-944e-a94a139be770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <value>
     Go to Cart
 </value>
-      <webElementGuid>526f23f9-c2a9-4e3c-83fc-0b705482b949</webElementGuid>
+      <webElementGuid>7da73858-e330-46a9-b472-041cb4b88b50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sw-gtc&quot;)/span[@class=&quot;a-button-inner&quot;]/a[@class=&quot;a-button-text&quot;]</value>
-      <webElementGuid>e7169c7f-fd75-47e2-b3d6-38d49d46b98a</webElementGuid>
+      <webElementGuid>e8da0acc-7cc2-4f21-bd2a-3e585b1a829c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='sw-gtc']/span/a</value>
-      <webElementGuid>1eae1e9a-4f8a-4902-b436-bdee18e0eead</webElementGuid>
+      <webElementGuid>41f442f4-2ecd-4f7d-b9bf-b46e263c442a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Go to Cart')])[2]</value>
-      <webElementGuid>7379e632-ae98-43bf-bb8e-241337a17d81</webElementGuid>
+      <webElementGuid>15e845e4-7bd8-4e96-bef2-cc3d432820c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -112,15 +112,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Amazon items'])[1]/following::a[1]</value>
-      <webElementGuid>715ebe32-a78b-4765-8d62-888c840f6210</webElementGuid>
+      <webElementGuid>6ce3092e-1f3f-4bac-ba60-34d8c67a02d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequently bought together with SKYTONE Motivational Water Bottle, Spirit GYM Gallon…'])[1]/preceding::a[1]</value>
-      <webElementGuid>00bd4956-4870-4410-9dbe-9e90815f094f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy It Again in Business, Industrial &amp;amp; Scientific Supplies'])[1]/preceding::a[1]</value>
+      <webElementGuid>ae8ea763-6957-42ca-837c-e8eddab7ce4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -128,7 +128,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/cart?ref_=sw_gtc')]</value>
-      <webElementGuid>f3082db6-978b-4399-a8a0-e46c8e964b8b</webElementGuid>
+      <webElementGuid>e176cca1-804c-4893-832a-c1c617454e9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -136,7 +136,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/span/span/a</value>
-      <webElementGuid>8ed982d2-3047-4a23-889e-ed199c3c64bb</webElementGuid>
+      <webElementGuid>369bdaad-e0e3-4724-b600-3f853939c6d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -148,6 +148,6 @@
 ' or . = '
     Go to Cart
 ')]</value>
-      <webElementGuid>1fd30a5d-7b41-49b5-a9bc-7809b5b8714c</webElementGuid>
+      <webElementGuid>2279b08b-8d83-4521-a590-6a5ccaef754b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

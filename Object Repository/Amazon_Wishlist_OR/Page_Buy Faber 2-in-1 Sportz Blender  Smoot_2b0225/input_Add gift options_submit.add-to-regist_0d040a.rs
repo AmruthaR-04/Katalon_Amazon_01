@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Add gift options_submit.add-to-regist_0d040a</name>
    <tag></tag>
-   <elementGuidId>15a986f7-1acc-4d9b-a60d-b6b97cbff217</elementGuidId>
+   <elementGuidId>dba40fee-8ef5-47eb-9811-17c7b0a12c1b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@id='add-to-wishlist-button-submit']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#add-to-wishlist-button-submit</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='add-to-wishlist-button-submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>817486ed-dbe4-4498-81bc-1ac3ca94bb66</webElementGuid>
+      <webElementGuid>271ad378-8d08-406e-8a69-1e87566add08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add-to-wishlist-button-submit</value>
-      <webElementGuid>bb5f9388-c779-4586-b762-0290ad74ce66</webElementGuid>
+      <webElementGuid>afbe1b71-3bba-4629-b2f7-a344b7deaa00</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>submit.add-to-registry.wishlist</value>
-      <webElementGuid>6665d50d-8258-4afc-b43d-bab6c7588ba3</webElementGuid>
+      <webElementGuid>edeb8f3a-275a-423b-92d3-f0ea77572cb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Add to Wish List</value>
-      <webElementGuid>651bb4f2-9318-494d-9241-b2177a6725e5</webElementGuid>
+      <webElementGuid>45ce4a7d-2a6f-440d-b14f-cbb7e68138f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-action</name>
       <type>Main</type>
       <value>atwl-splitbutton-main</value>
-      <webElementGuid>1a60843b-d82b-48d1-9992-a21d09e744d8</webElementGuid>
+      <webElementGuid>01fe183c-11c7-42a9-9f17-d5aba23aeb7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <type>Main</type>
       <value>&lt;!-- If PartialItemStateWeblab is true then, showing different Add-to-wish-list tool-tip message which is consistent with Add-to-Cart tool tip message.  -->
        To Add to Wish List, choose from options to the left</value>
-      <webElementGuid>76e68cf5-3956-4ae3-a9c0-6bbb978b5033</webElementGuid>
+      <webElementGuid>478bc4b2-35f6-4d8e-a503-7d66c8944985</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>class</name>
       <type>Main</type>
       <value>a-button-input a-declarative</value>
-      <webElementGuid>269f1be1-43f2-4bdb-8b42-e40ef5fa317e</webElementGuid>
+      <webElementGuid>142ccd4c-5725-480e-97c2-6bd5ef6e5160</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>8d9c88b5-e23d-4e54-b7a4-42a6af5ff7e4</webElementGuid>
+      <webElementGuid>09896f18-94ca-424a-87b7-8af8c82c66ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Add to Wish List</value>
-      <webElementGuid>c939bb93-804c-41f5-9a56-d277e24bebc9</webElementGuid>
+      <webElementGuid>518e9152-2661-4bef-81f6-5b648b2fb638</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>aria-labelledby</name>
       <type>Main</type>
       <value>wishListMainButton-announce</value>
-      <webElementGuid>41c913c0-cbce-4c48-a6c2-1e8c5d0e85e6</webElementGuid>
+      <webElementGuid>5486959a-e977-4369-84fb-232f42c3e201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-to-wishlist-button-submit&quot;)</value>
-      <webElementGuid>a1613308-a0d6-418c-902e-585e385f2192</webElementGuid>
+      <webElementGuid>fe06ec18-9546-4cb9-a847-aa91b4ac6b60</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='add-to-wishlist-button-submit']</value>
-      <webElementGuid>f1f74984-b427-4a2d-a246-289a88973e9e</webElementGuid>
+      <webElementGuid>43f632fa-6ced-404e-8dc7-9f4a0c379745</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='wishListMainButton']/span/input</value>
-      <webElementGuid>3086634f-88e3-4808-93c5-0026145d7fbf</webElementGuid>
+      <webElementGuid>9dbdfb73-b90e-4b82-a355-5d7794c12ace</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/span/span/input</value>
-      <webElementGuid>a6f74d1a-a30e-4670-aa04-2c4a55d17eb2</webElementGuid>
+      <webElementGuid>dcdd5887-67a1-4f10-85b7-a940cdaa1a6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +135,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'add-to-wishlist-button-submit' and @name = 'submit.add-to-registry.wishlist' and @title = 'Add to Wish List' and @type = 'submit']</value>
-      <webElementGuid>54a9b583-ce2e-488c-887d-81db63282303</webElementGuid>
+      <webElementGuid>b2f89f9c-7d70-44fa-9248-f75585923d5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

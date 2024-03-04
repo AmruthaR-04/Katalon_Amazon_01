@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Sign Out</name>
    <tag></tag>
-   <elementGuidId>173e907c-e092-4c1c-a9f7-0a8ce66fe401</elementGuidId>
+   <elementGuidId>d47bb416-79a7-494d-b78e-b306e90e65ff</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[@id='nav-item-signout']/span</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#nav-item-signout > span.nav-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-item-signout']/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>ae60a9ee-1c99-453b-a8f5-fcb5d9217284</webElementGuid>
+      <webElementGuid>a01e98f2-f8bb-4081-9942-6d2c550fa488</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-text</value>
-      <webElementGuid>ea7708cd-4c29-4fbf-a60e-f54993620ceb</webElementGuid>
+      <webElementGuid>a01e6581-403c-4bb9-a3a6-59b0bf3d6ad9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign Out</value>
-      <webElementGuid>2ea9dc27-c480-402e-ac11-0acd9392c980</webElementGuid>
+      <webElementGuid>bb77d0f8-dcb6-41c5-9345-82ece93d3f57</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-item-signout&quot;)/span[@class=&quot;nav-text&quot;]</value>
-      <webElementGuid>ca9c972d-6495-4ad0-8163-c4f69296b3c4</webElementGuid>
+      <webElementGuid>d44aa10b-a4dd-4e5a-8a36-29d381bd81c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='nav-item-signout']/span</value>
-      <webElementGuid>04ba91e8-557d-442a-9966-5779b6d2a7e2</webElementGuid>
+      <webElementGuid>1a0f0d5e-22b7-4039-b20f-e0a8d931bf36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch Accounts'])[1]/following::span[1]</value>
-      <webElementGuid>66962d1f-1fd2-4acd-a2c1-7d3fd5a369e4</webElementGuid>
+      <webElementGuid>89cfd859-70d3-486c-8e49-01ab3b7d7a4e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Free Amazon Business Account'])[1]/following::span[2]</value>
-      <webElementGuid>81157c51-a2cc-4d93-82e5-bc453598b8ff</webElementGuid>
+      <webElementGuid>2ae440d3-3724-4b4d-ab7d-bf14bee916de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy it again'])[1]/preceding::span[1]</value>
-      <webElementGuid>4bfe1376-f3d4-4097-b420-4f205c1654e1</webElementGuid>
+      <webElementGuid>e2bdaad6-e323-4c7c-bafb-1da1e716a6df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View All &amp; Manage'])[1]/preceding::span[2]</value>
-      <webElementGuid>e86c7a58-fbed-4073-9762-085d946631bc</webElementGuid>
+      <webElementGuid>a574e1d9-63f4-434e-bd10-04b3427c62b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
-      <webElementGuid>b97c14b5-e0cc-48cd-b47c-56ed6f767e39</webElementGuid>
+      <webElementGuid>5b75f2d8-deae-463c-8125-1fd8fa0173b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[15]/span</value>
-      <webElementGuid>6dcc7486-4c69-44e1-b734-7c68e4d98177</webElementGuid>
+      <webElementGuid>2017a512-372b-428b-9a3f-30b0ff01b964</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Sign Out' or . = 'Sign Out')]</value>
-      <webElementGuid>f824f958-507a-40b1-89ee-e034170bad7f</webElementGuid>
+      <webElementGuid>7f1f45f6-fb96-49ef-8bb1-eec608cb9f62</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

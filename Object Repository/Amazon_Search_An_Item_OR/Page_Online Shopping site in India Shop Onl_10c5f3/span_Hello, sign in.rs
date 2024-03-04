@@ -3,15 +3,15 @@
    <description></description>
    <name>span_Hello, sign in</name>
    <tag></tag>
-   <elementGuidId>c042546b-784b-4725-a7c9-809679569e54</elementGuidId>
+   <elementGuidId>056235a4-452a-4ec9-bd0e-0e5e11c16bc4</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//span[@id='nav-link-accountList-nav-line-1']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#nav-link-accountList-nav-line-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='nav-link-accountList-nav-line-1']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7d5e5efc-f421-4783-96c3-31a91a4aedb4</webElementGuid>
+      <webElementGuid>f5facdb4-caad-4cdc-8fce-8264e33e1191</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>nav-link-accountList-nav-line-1</value>
-      <webElementGuid>184f4a1e-e951-4d96-b8cc-56b87d047ec3</webElementGuid>
+      <webElementGuid>d65df9dc-5e29-45ef-9cd1-b1d2f5ea5849</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-line-1 nav-progressive-content</value>
-      <webElementGuid>2cb31288-2fc2-4a47-8e3a-f22032df3bfe</webElementGuid>
+      <webElementGuid>aaf6bd85-75d5-4ddb-94ad-9c841b25befc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Hello, sign in</value>
-      <webElementGuid>df61ceb2-e2c5-49ac-9e78-8610d124b564</webElementGuid>
+      <webElementGuid>28086db3-9b7c-4482-8c2d-ee9f921cb41a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-link-accountList-nav-line-1&quot;)</value>
-      <webElementGuid>c739944a-5d65-4d2f-92d6-f5d8bcdce4ee</webElementGuid>
+      <webElementGuid>6af4eced-317a-4369-8d23-a99dd9a2c0f1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='nav-link-accountList-nav-line-1']</value>
-      <webElementGuid>627ff2d6-5954-4045-ac04-d94a946de895</webElementGuid>
+      <webElementGuid>14a8f06c-89c9-403c-975e-698cacd541e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='nav-link-accountList']/div/span</value>
-      <webElementGuid>9af9fd67-29ef-4412-89ab-c660cb0d74b1</webElementGuid>
+      <webElementGuid>0d5ba095-2696-423d-99b2-b2f87b24b42c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::span[2]</value>
-      <webElementGuid>1fa65dd3-8db9-4957-bbc4-00f9cc644670</webElementGuid>
+      <webElementGuid>26c1efb8-b87d-4d9b-ad5b-759eebb88511</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Amazon.in'])[1]/following::span[7]</value>
-      <webElementGuid>a414f19e-2b0e-4abf-a9f6-81e395ef7afe</webElementGuid>
+      <webElementGuid>96853627-4d8f-42c8-b49b-f63c5f6a076a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Account &amp; Lists'])[1]/preceding::span[1]</value>
-      <webElementGuid>0de5ac58-aea8-4516-bf22-954d76d5dbb4</webElementGuid>
+      <webElementGuid>98c5b12c-d78c-4435-a2bd-6b78664d1f21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Returns'])[1]/preceding::span[3]</value>
-      <webElementGuid>caf9c790-f401-4017-bcf6-88b9393de7a2</webElementGuid>
+      <webElementGuid>9915da3f-f8be-4970-9580-ae36ac7cc49d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Hello, sign in']/parent::*</value>
-      <webElementGuid>ce9080e1-c3f1-4c4e-abf6-d87123002ef0</webElementGuid>
+      <webElementGuid>3be543b5-a755-47b3-a1af-51eb6435eb79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a[2]/div/span</value>
-      <webElementGuid>e1b05863-8cef-4e1c-ac4f-e6aad6471ca7</webElementGuid>
+      <webElementGuid>044846f7-4c1e-442e-a908-b682c227e193</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'nav-link-accountList-nav-line-1' and (text() = 'Hello, sign in' or . = 'Hello, sign in')]</value>
-      <webElementGuid>756a1dec-5c39-431a-8249-841e392847ed</webElementGuid>
+      <webElementGuid>c0247c20-9495-4efa-a353-acf5af71b3c2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

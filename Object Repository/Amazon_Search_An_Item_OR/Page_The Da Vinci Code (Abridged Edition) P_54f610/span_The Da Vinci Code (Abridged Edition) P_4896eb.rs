@@ -3,15 +3,15 @@
    <description></description>
    <name>span_The Da Vinci Code (Abridged Edition) P_4896eb</name>
    <tag></tag>
-   <elementGuidId>bda03efe-9d68-4c79-b078-c51defe3d5f6</elementGuidId>
+   <elementGuidId>646156e1-62d7-4b80-8381-ec1e13feb6ab</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//span[@id='productTitle']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#productTitle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='productTitle']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>df6d41d3-694f-4b91-83aa-2b97b5d9d8fa</webElementGuid>
+      <webElementGuid>deb04726-b43b-437d-bbed-9713cf5df50a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>productTitle</value>
-      <webElementGuid>6ac2de43-f35d-4618-96da-5a1430690d64</webElementGuid>
+      <webElementGuid>cece6632-470f-4130-92f9-009a2a080533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,15 +38,15 @@
       <name>class</name>
       <type>Main</type>
       <value>a-size-extra-large celwidget</value>
-      <webElementGuid>754c60d3-47ac-4fd1-b09e-f6b58cf9e38d</webElementGuid>
+      <webElementGuid>e6e1d2a9-2559-42f3-923b-88ffc44299ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-csa-c-id</name>
       <type>Main</type>
-      <value>7g5qra-k5qon-8wetf7-r6bhx3</value>
-      <webElementGuid>414bbc02-cba2-4d87-be24-cbd438d1ebf6</webElementGuid>
+      <value>uy3n7t-ep1t9-o4as1d-402m5v</value>
+      <webElementGuid>564d57ec-f993-462e-84f2-941caaa384c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-cel-widget</name>
       <type>Main</type>
       <value>productTitle</value>
-      <webElementGuid>417c0e33-ce8c-461a-8ae8-713f74d38c90</webElementGuid>
+      <webElementGuid>8f8228f2-d540-47f3-8785-0fde2828bdf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  The Da Vinci Code (Abridged Edition) [Paperback] Brown, Dan </value>
-      <webElementGuid>27850a7c-276b-4f87-96d0-874004490a94</webElementGuid>
+      <webElementGuid>cc0cf527-4931-49b0-864d-f404af937b8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;productTitle&quot;)</value>
-      <webElementGuid>8012b3d6-d941-410f-a1d1-7c56d0776e76</webElementGuid>
+      <webElementGuid>34e5b86e-3cff-446b-8512-709b67f6b747</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='productTitle']</value>
-      <webElementGuid>ed288315-f5fc-4e22-aa37-acd014689b6b</webElementGuid>
+      <webElementGuid>5fbb4de8-a481-4996-8f54-f0f39572b734</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//h1[@id='title']/span</value>
-      <webElementGuid>ee157bf2-b14c-4b60-8524-5a5250f280db</webElementGuid>
+      <webElementGuid>4978fc61-5458-487e-8757-7f05d08abaac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Something went wrong. Please try your request again later.'])[1]/following::span[6]</value>
-      <webElementGuid>1b719e23-73eb-43bc-af3b-82d87b76dd1c</webElementGuid>
+      <webElementGuid>dff255f3-61c1-43f7-80f0-11d063997d6c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow'])[1]/following::span[7]</value>
-      <webElementGuid>c4d38fc8-5dce-4a12-9bb6-a3fe714b62c7</webElementGuid>
+      <webElementGuid>8e8c569a-2f3d-4a71-b5f3-422ec83afe72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,15 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Paperback – Abridged, 3 October 2016'])[1]/preceding::span[1]</value>
-      <webElementGuid>83c55f7f-afe8-4ce1-93c0-f952da6bb38f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='The Da Vinci Code (Abridged Edition) [Paperback] Brown, Dan']/parent::*</value>
-      <webElementGuid>44e1a032-1d75-4136-b59c-0fe4d905fa8a</webElementGuid>
+      <webElementGuid>300fd2f3-6992-4ae9-afa9-3cc6afbdb3d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//h1/span</value>
-      <webElementGuid>4054ac9a-1e32-47ae-bfb4-b64cc6da240d</webElementGuid>
+      <webElementGuid>d03a94b1-f821-4530-afb9-4138ffb63b53</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'productTitle' and (text() = '  The Da Vinci Code (Abridged Edition) [Paperback] Brown, Dan ' or . = '  The Da Vinci Code (Abridged Edition) [Paperback] Brown, Dan ')]</value>
-      <webElementGuid>3246ba69-bd31-4cec-b7a9-dfe8b7bacd3c</webElementGuid>
+      <webElementGuid>b61c882c-a291-4117-854e-99e156bcd8ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
