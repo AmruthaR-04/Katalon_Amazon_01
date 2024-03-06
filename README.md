@@ -4,13 +4,13 @@ Amazon Project Is An Automation Testing Using The Katalon Studio Automation Test
 
 Step 1: Create the Test Plan based on the given project.
 
-Step 2: Create the Test Case & Test Scenarios in Excel sheet.
+Step 2: Create the Test Cases & Test Scenarios in Excel sheet.
 
 Step 3: Create the Test Data for Which Scenarios in Excel sheet.
 
 Step 4: Go to the Katalon Studio Tool, First create the Project and give a name based on the project.
 
-Step5: In the Test Case folder create the test case.
+Step5: In the Test Cases folder create the test case.
 
 Step 6: Create the Test Suite level and Test suite collection in Katalon Studio.
 
